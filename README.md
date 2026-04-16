@@ -1,5 +1,5 @@
 # AI-Powered Misinformation Detector (v1.0)
-
+  
 ### 📝 Project Overview
 This repository contains a supervised machine learning solution designed to classify news headlines as **REAL** or **FAKE**. this project uses **Natural Language Processing (NLP)** to identify linguistic patterns, sensationalist framing, and statistical indicators of misinformation.
 
