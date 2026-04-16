@@ -8,7 +8,7 @@ This repository contains a supervised machine learning solution designed to clas
 * **Passive-Aggressive Classifier:** Implemented an online-learning algorithm specifically chosen for high-dimensional text data. It remains *passive* for correct predictions and becomes *aggressive* to correct weight errors.
 * **TF-IDF Vectorization:** Utilized *Term Frequency-Inverse Document Frequency* to convert raw text into a weighted numerical matrix, prioritizing meaningful keywords while filtering out common English stop words.
 * **Uncertainty Quantification:** Features a custom confidence-scoring engine using a Hyperbolic Tangent ($tanh$) normalization. This allows the system to communicate its level of certainty (0-100%) to the user.
-* **Persistent Audit Logging:** Every prediction is automatically recorded in an `predictions_log.csv` file with a timestamp, providing a transparent history for testing and validation.
+* **Persistent Audit Logging:** Every prediction is automatically recorded in an `predictions_log.csv` file with a timestamp, providing a transparent history for testing and validation.  
 
 
 ### 🛠️ Tech Stack & Libraries
