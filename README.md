@@ -31,4 +31,4 @@ This repository contains a supervised machine learning solution designed to clas
    git clone
    pip install pandas scikit-learn numpy
    python create_dataset.py
-   python detector.py
+   python detector.py      
